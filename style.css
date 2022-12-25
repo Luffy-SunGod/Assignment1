@@ -1,0 +1,44 @@
+#outer{
+    width: 400px;
+    height: 800px;
+     margin: auto; 
+    /* background-color: black; */
+    /* padding:20px; */
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#inner{
+    width: 380px;
+    height: 780px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: rgb(186, 89, 103);
+    border-radius: 5px;
+}
+.xyz{
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top: 2px;
+}
+#inner input{
+    margin: 5px;
+    margin-left: 50px;
+}
+.one label{
+    margin-left: 10px;
+}
+#inner h3{
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+.one h3{
+     /* margin-top: 10px; */
+     padding-top: 5px;
+}
+.mail input {
+    margin-left: 0px;
+}
+
+
